@@ -3,7 +3,7 @@
 ### initialize fish
 
 ```fish
-brew install fish peco ghq
+brew install fish peco ghq fzf
 ```
 
 Specifies the directory which manages the repository with ghq
