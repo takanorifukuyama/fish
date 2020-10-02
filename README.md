@@ -1,4 +1,4 @@
-# fish-config
+# fish
 
 ### initialize fish
 
