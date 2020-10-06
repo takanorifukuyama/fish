@@ -14,6 +14,8 @@ git config --global ghq.root ~/git
 
 ## fisher setup
 
+https://github.com/jorgebucaran/fisher/
+
 ```fish
 curl https://git.io/fisher --create-dirs -sLo ~/.config/fish/functions/fisher.fish
 ```
