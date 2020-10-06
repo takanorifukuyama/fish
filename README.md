@@ -12,6 +12,12 @@ Specifies the directory which manages the repository with ghq
 git config --global ghq.root ~/git
 ```
 
+## fisher setup
+
+```fish
+curl https://git.io/fisher --create-dirs -sLo ~/.config/fish/functions/fisher.fish
+```
+
 ```fish
 fisher
 ```
