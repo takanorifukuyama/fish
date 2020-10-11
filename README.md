@@ -1,5 +1,12 @@
 # fish
 
+### initialize for your mac
+
+following apolication required.
+
+- homebrew
+- https://github.com/fikovnik/ShiftIt
+
 ### initialize fish
 
 ```fish
