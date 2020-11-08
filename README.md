@@ -6,6 +6,7 @@ following apolication required.
 
 - homebrew
 - https://github.com/fikovnik/ShiftIt
+- https://github.com/Clipy/Clipy
 
 ### initialize fish
 
