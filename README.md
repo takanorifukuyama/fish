@@ -5,7 +5,7 @@
 following apolication required.
 
 - homebrew
-- https://github.com/fikovnik/ShiftIt or magnet fron appstore
+- https://github.com/fikovnik/ShiftIt or magnet from appstore
 - https://github.com/Clipy/Clipy
 
 ### initialize fish
