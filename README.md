@@ -19,15 +19,15 @@ brew install fish peco ghq fzf
 sudo vi /etc/shells
 ```
 
+change default shell
+```fish 
+chsh -s /opt/homebrew/bin/fish
+```
+
 Specifies the directory which manages the repository with ghq
 
 ```fish
 git config --global ghq.root ~/git
-```
-
-change default shell
-```fish 
-chsh -s /opt/homebrew/bin/fish
 ```
 
 ## fisher setup
